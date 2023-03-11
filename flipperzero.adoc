@@ -1,0 +1,25 @@
+:title: Flipper zero notes
+:author: Pascal Munerot
+:email: pascal.munerot@gmail.com
+:doctype: book
+:toc:
+:toclevels: 3
+
+== Introduction
+
+
+
+== Web sites
+
+- https://flipperzero.one[Home]
+
+- https://docs.flipperzero.one[Documentation]
+
+- https://github.com/flipperdevices[Github repositories]
+
+- https://forum.flipperzero.one[Forum]
+
+- https://flipperzero.one/design-guide[Design guide]
+
+- https://blog.flipperzero.one[Blog]
+
