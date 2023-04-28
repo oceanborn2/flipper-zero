@@ -4,6 +4,7 @@
 :doctype: book
 :toc:
 :toclevels: 3
+:imagesdir: img
 
 == Introduction
 
@@ -22,4 +23,42 @@
 - https://flipperzero.one/design-guide[Design guide]
 
 - https://blog.flipperzero.one[Blog]
+
+== WIFI module connection
+
+.WIFI modes
+
+The module can broadcast in either AP (broadcast) or STA (join existing network ssid).
+
+To obtain a first connection, plug in the USB cable and reboot the device to active the default AP mode.
+
+Then connect to the default address on the flipper device: https://192.168.4.1[]
+
+.hardware module documentation
+
+- https://docs.flipperzero.one/development/hardware/wifi-debugger-module[]
+
+
+.default IP in default AP mode 
+
+In default AP mode, the module broadcasts on the blackmagic/iamwitcher.
+
+.Custom AP mode
+
+image:apmode.png[]
+
+
+.Custom STA mode
+
+
+image:stamode.png[]
+
+.IP configuration tab
+
+image:sysiptab.png[]
+
+.Processes tab
+
+image:pstab.png[]
+
 
